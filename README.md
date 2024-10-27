@@ -1,1 +1,1 @@
-This repository contains solutions to problems from the site [roadmap.sh](https://roadmap.sh/)
+This repository contains solutions to project encountered on the site.[roadmap.sh](https://roadmap.sh/)
