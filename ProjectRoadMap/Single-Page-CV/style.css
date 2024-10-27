@@ -1,0 +1,32 @@
+.Main {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60px;
+}
+
+.H3Title {
+    color: seagreen;
+}
+
+.CInfo {
+    margin : 1px;
+}
+
+.EInfoTitle {
+    color: deepskyblue;
+    font-weight: bold;
+    margin : 1px;
+}
+
+.ExpInfoTitle {
+    color: deepskyblue;
+    font-weight: bold;
+    margin : 1px;
+}
+
+.EInfo {
+    margin : 1px;
+}
+
+.ExpDetails p {
+    margin : 1px;
+}
